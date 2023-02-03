@@ -1,2 +1,2 @@
-This is the body part of the index page.
+Index page.
 
